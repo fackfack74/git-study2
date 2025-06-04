@@ -1,0 +1,23 @@
+
+
+- DB control
+dbeaber : 근래에는 이를 더 많이 사용. 연동되는 DB가 많음.
+sqldeveloper
+
+- DBMS
+mariadb
+mysql
+oracle
+
+- program develop
+python
+jdk
+
+- apply control
+eclipse : java
+vscode : html, css, python, java
+
+- git
+git
+sourcetree
+tortoise
